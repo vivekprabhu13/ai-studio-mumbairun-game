@@ -1,0 +1,6 @@
+{
+  "name": "Mumbai Rickshaw Runner",
+  "description": "A 3D infinite runner game featuring an auto rickshaw navigating busy Mumbai streets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
